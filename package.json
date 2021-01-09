@@ -1,0 +1,20 @@
+{
+  "name": "cree",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekeriyaguzelsoy/cree.git"
+  },
+  "author": "Zekeriya Güzelsoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zekeriyaguzelsoy/cree/issues"
+  },
+  "homepage": "https://github.com/zekeriyaguzelsoy/cree#readme"
+}

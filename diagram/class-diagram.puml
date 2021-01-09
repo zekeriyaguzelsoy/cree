@@ -1,0 +1,20 @@
+@startuml Class Diagram
+
+class Customer <<Entity>> {
+  + id : String
+  + name: String
+  + phone: Number
+  + email: String
+  + password: String
+}
+
+class Movies {
+  + genres: String
+  + year: Number
+  + rate: Number
+  + search()
+}
+
+Customer --> Movies
+
+@enduml
